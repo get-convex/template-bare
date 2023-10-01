@@ -7,7 +7,7 @@ Start by editing `convex/myFunctions.ts` and interact with your backend from the
 dashboard or via the CLI:
 
 ```sh
-npx convex run myFunctions:myQuery {"first": 1, "second": "Hello"}
+npx convex run myFunctions:myQuery '{"first": 1, "second": "Hello"}'
 ```
 
 See Convex docs at https://docs.convex.dev/home
