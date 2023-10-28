@@ -18,7 +18,7 @@ export const myQuery = internalQuery({
   },
 
   // Query implementation.
-  handler: async (ctx, args) => {
+  handler: async (ctx, args: any) => {
     //// Read the database as many times as you need here.
     //// See https://docs.convex.dev/database/reading-data.
     // const documents = await ctx.db.query("tableName").collect();
