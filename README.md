@@ -1,3 +1,10 @@
+> [!WARNING]
+> This repository is deprecated!
+>
+> Find the up-to-date version at https://github.com/get-convex/templates/tree/main/template-bare
+>
+> If you just ran `npm create convex`, run `npm create convex@latest` instead
+
 # Convex + TypeScript + ESLint
 
 This template provides a minimal setup to get Convex working, with TypeScript
